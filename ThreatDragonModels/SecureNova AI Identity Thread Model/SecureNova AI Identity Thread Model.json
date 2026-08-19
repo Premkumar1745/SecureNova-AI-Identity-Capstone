@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "",
+  "summary": {
+    "title": "SecureNova AI Identity Thread Model",
+    "owner": "Prem",
+    "description": "SecureNova is an AI platform containing human users, AI agents, OAuth M2M clients, LLM APIs, RAG pipeline services, MCP servers, and internal APIs. This threat model analyzes identity, authentication, authorization, trust boundaries, and AI-specific security threats using STRIDE.",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "SecureNova AI Identity Data Flow",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Data-flow diagram showing human identity, Auth0 authentication, AI agent, LLM API, RAG pipeline, MCP server, internal APIs, and trust boundaries."
+      }
+    ],
+    "diagramTop": 2,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
