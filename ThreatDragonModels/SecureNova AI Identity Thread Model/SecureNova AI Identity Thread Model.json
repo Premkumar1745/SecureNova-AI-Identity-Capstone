@@ -989,7 +989,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "OAuth 2.0",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1003,7 +1003,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "OAuth 2.0"
             ],
             "id": "47306657-5bde-4bfd-b126-e9369e2c7ce2",
             "source": {
@@ -1037,7 +1037,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Access Token",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1054,7 +1054,7 @@
               ]
             },
             "labels": [
-              "Data Flow"
+              "Access Token"
             ],
             "id": "c4cf0800-936f-447f-a394-393301a4c6ab",
             "source": {
@@ -1087,7 +1087,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Authentication agent request",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1101,7 +1101,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "Authentication agent request"
             ],
             "id": "c614c98a-0827-4b3c-a12e-a2f2c5f84e53",
             "source": {
@@ -1134,7 +1134,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "RAG Query",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1148,7 +1148,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "RAG Query"
             ],
             "id": "75829ae4-9904-402f-9b13-4a7aba470339",
             "source": {
@@ -1181,7 +1181,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "LLM API request",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1195,7 +1195,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "LLM API request"
             ],
             "id": "c7f630ad-dd4b-45d1-a72f-e61026262776",
             "source": {
@@ -1228,7 +1228,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Embedding",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1245,7 +1245,7 @@
               ]
             },
             "labels": [
-              "Data Flow"
+              "Embedding"
             ],
             "id": "d70b512b-a417-46f7-8727-32c88856499c",
             "source": {
@@ -1278,7 +1278,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Tool request",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1295,7 +1295,7 @@
               ]
             },
             "labels": [
-              "Data Flow"
+              "Tool request"
             ],
             "id": "d3324511-8dae-4621-b50e-ad437df27eda",
             "source": {
@@ -1328,7 +1328,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Authenticated API request",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1342,7 +1342,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "Authenticated API request"
             ],
             "id": "87b4c26f-f1c0-43d3-a760-c40fbdd2ab6b",
             "source": {
@@ -1375,7 +1375,7 @@
             "connector": "smooth",
             "data": {
               "type": "tm.Flow",
-              "name": "Data Flow",
+              "name": "Client Credentials",
               "description": "",
               "outOfScope": false,
               "isTrustBoundary": false,
@@ -1389,7 +1389,7 @@
               "trustBoundaryIds": []
             },
             "labels": [
-              "Data Flow"
+              "Client Credentials"
             ],
             "id": "a3129243-c7c9-473b-aed1-c66dda472917",
             "source": {
